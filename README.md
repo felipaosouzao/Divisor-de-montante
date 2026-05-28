@@ -1,6 +1,6 @@
 # Divisor de Montante (euros)
 
-Descrição
+
 Programa simples para dividir um montante em euros entre categorias — por porcentagens ou subtrair valores. 
 
 Pré-requisitos
