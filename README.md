@@ -8,7 +8,7 @@ Pré-requisitos
 
 Como rodar
 
-python pdp.py
+py `divisor de montante.py`
 
 1. Pressione Enter para iniciar.
 2. Informe o montante total (aceita vírgula ou ponto como separador decimal).
